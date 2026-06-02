@@ -1,0 +1,14 @@
+# Claude Code local settings (may contain API keys)
+.claude/settings.local.json
+
+# Obsidian workspace
+.obsidian/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+~$*
